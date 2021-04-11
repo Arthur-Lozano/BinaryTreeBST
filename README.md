@@ -23,4 +23,4 @@ Define a method named contains that accepts a value, and returns a boolean indic
 
 #### UML
 
-![UML](../assets/cc15.jpg)
+![UML](./trees/assets/cc15.jpg)
